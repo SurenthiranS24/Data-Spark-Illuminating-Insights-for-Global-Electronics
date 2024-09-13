@@ -4,7 +4,7 @@ Retail Analytics in the Electronics Industry
 ## SKILL-TAKEAWAY
 * Data Cleaning and Preprocessing, EDA,Python, Data Management using SQL, Power Bi
 ## TECHNOLOGY USED
-* Python 3.9.
+* Python 3.12.4
 * MySQL - XAMPP
 * Power Bi
 # Business Use Cases:
